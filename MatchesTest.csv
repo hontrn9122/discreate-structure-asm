@@ -1,0 +1,58 @@
+,HomeTeamName,AwayTeamName,HomeTeamGoals,AwayTeamGoals,Year,HomeWin
+2,Czechoslovakia,France,2,0,1960,True
+3,Russia,Yugoslavia,2,1,1960,True
+4,Spain,Hungary,2,1,1964,True
+7,Spain,Russia,2,1,1964,True
+9,Yugoslavia,England,1,0,1968,True
+17,Czechoslovakia,Netherlands,3,1,1976,True
+34,Belgium,Germany,1,2,1980,False
+36,Belgium,Yugoslavia,2,0,1984,True
+44,Portugal,Spain,1,1,1984,False
+53,Italy,Spain,1,0,1988,True
+56,England,Republic of Ireland,0,1,1988,False
+60,England,Russia,1,3,1988,False
+64,Russia,Netherlands,0,2,1988,False
+69,Sweden,England,2,1,1992,True
+71,Netherlands,Scotland,1,0,1992,True
+73,Scotland,Germany,0,2,1992,False
+76,Scotland,CIS,3,0,1992,True
+77,Sweden,Germany,2,3,1992,False
+81,Netherlands,Scotland,0,0,1996,False
+87,Romania,France,0,1,1996,False
+93,Italy,Russia,2,1,1996,True
+95,Russia,Germany,0,3,1996,False
+101,Croatia,Denmark,3,0,1996,True
+109,Germany,England,1,1,1996,True
+115,England,Romania,2,3,2000,False
+117,Belgium,Sweden,2,1,2000,True
+119,Italy,Belgium,2,0,2000,True
+124,FR Yugoslavia,Slovenia,3,3,2000,False
+125,Slovenia,Spain,1,2,2000,False
+133,Denmark,Czech Republic,0,2,2000,False
+135,Turkey,Portugal,0,2,2000,False
+139,France,Portugal,2,1,2000,True
+143,Spain,Russia,1,0,2004,True
+148,Switzerland,Croatia,0,0,2004,False
+149,France,England,2,1,2004,True
+156,Bulgaria,Denmark,0,2,2004,False
+162,Latvia,Germany,0,0,2004,False
+167,France,Greece,0,1,2004,False
+174,Portugal,Turkey,2,0,2008,True
+175,Czech Republic,Portugal,1,3,2008,False
+189,Netherlands,Romania,2,0,2008,True
+205,Russia,Czech Republic,4,1,2012,True
+210,Netherlands,Denmark,0,1,2012,False
+218,Italy,Croatia,1,1,2012,False
+222,France,England,1,1,2012,False
+224,Ukraine,France,0,2,2012,False
+237,Romania,Switzerland,1,1,2016,False
+239,Romania,Albania,0,1,2016,False
+245,Russia,Wales,0,3,2016,False
+246,Slovakia,England,0,0,2016,False
+247,Poland,Northern Ireland,1,0,2016,True
+264,Sweden,Belgium,0,1,2016,False
+266,Portugal,Iceland,1,1,2016,False
+270,Hungary,Portugal,3,3,2016,False
+271,Switzerland,Poland,1,1,2016,False
+275,Germany,Slovakia,3,0,2016,True
+277,Italy,Spain,2,0,2016,True
